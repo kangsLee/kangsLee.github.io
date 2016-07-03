@@ -11,21 +11,21 @@ title: "KangSan Lee"
 description: "나의 잡다한 공간"
 email: ''
 #blog logo
-logo: "http://kangsLee.github.io/assets/images/profile.jpg"
+logo: "/assets/images/profile.jpg"
 # blog cover
-cover: "http://kangsLee.github.io/assets/images/cover.jpg"
+cover: "/assets/images/cover.jpg"
 
 authors:
    KangSan Lee:
      name: KangSan Lee
-     image: http://kangsLee.github.io/assets/images/profile.jpg
+     image: /assets/images/profile.jpg
 
 paginate: 5
 
 url: "http://kangsLee.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@'
+twitter_handle: '@lkasng'
 
 #fill in disqus shortname to use disqus
 disqus: ''
