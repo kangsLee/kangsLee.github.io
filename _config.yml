@@ -1,0 +1,50 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+
+# Site settings
+title: "KangSan Lee"
+description: "나의 잡다한 공간"
+email: ''
+#blog logo
+logo: "http://kangsLee.github.io/assets/images/profile.jpg"
+# blog cover
+cover: "http://kangsLee.github.io/assets/images/assets/images/cover.jpg"
+
+authors:
+   KangSan Lee:
+     name: KangSan Lee
+     image: http://kangsLee.github.io/assets/images/profile.jpg
+
+paginate: 5
+
+url: "http://kangsLee.github.io" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@'
+
+#fill in disqus shortname to use disqus
+disqus: ''
+
+timezone: Asia/Seoul
+
+# social icons and sharing options
+social:
+
+  - icon: facebook
+    url: http://fb.me/yikasa
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon: github
+    url:  https://github.com/kangsLee
+    desc: Our GitHub
+    share_url:
+    share_title:
+    share_link:
