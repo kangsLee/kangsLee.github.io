@@ -15,7 +15,7 @@ author: KangSan Lee
 - **Nickname** : River-Mountain
 - **Mail** : leeknsa@gmail.com
 - **GitHub** : https://github.com/kangsLee 
-- **Facebook** : https://fb.me/yikasa
+- **Facebook** : https://fb.me/leegangsan
 - **Who** : 여행하는 개발자 입니다. 왜 인지는 모르겠지만 매년 일본은 항상 다녀오고 있습니다. 현지에가서 현지어로 소통하는 것을 좋아합니다. 그래서 영어 조금, 일본어 조금, 태국어 조금, 기타 여행했던 나라 언어 조금씩 할줄 압니다.
 - **favorite**
     * 음식
