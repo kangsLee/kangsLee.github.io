@@ -38,3 +38,8 @@ author: KangSan Lee
         * 모차르트
         * 지킬앤하이드
     * Google
+    * 개발
+        * 안드로이드
+        * 코틀린
+        * Rx
+        * Firebase
