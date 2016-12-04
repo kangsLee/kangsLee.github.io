@@ -43,6 +43,8 @@ author: KangSan Lee
         * 코틀린
         * Rx
         * Firebase
+        * ~~Angular1~~
+        * Angular2
         
 - **Slide**
     * [잘은 모르지만 Java to Kotlin](http://www.slideshare.net/leekns/java-to-kotlin)
